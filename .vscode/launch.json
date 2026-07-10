@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StudentRecordSystem",
+            "request": "launch",
+            "mainClass": "StudentRecordSystem",
+            "projectName": "summer_c47b304f"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "https://chatgpt.com/c/6835566a-c88c-8012-8481-7496bd30d387"
+        }
+    ]
+}
